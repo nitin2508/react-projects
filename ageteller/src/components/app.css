@@ -1,0 +1,19 @@
+.App{
+    padding:5%;
+    text-align:center;
+    font-size: 16px;
+}
+.partyPopper{
+    width:200px;
+    height:200px;
+}
+.fade{
+    animation: fade-in;
+    animation-duration: 6s;
+}
+.ageStats{
+    opacity:100;
+}
+@@keyframes fade-in {
+    from {opacity:0} to {opacity:100}
+}

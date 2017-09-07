@@ -1,0 +1,15 @@
+coverage/
+node_modules/
+target/
+tmp/
+zip/
+
+#======================================
+# Extensions
+#--------------------------------------
+*.gz
+*.log
+*.rar
+*.tar
+*.zip
+
